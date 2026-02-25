@@ -1,0 +1,48 @@
+[33mcommit ed6aee11e7efa9c6f6d2ab95bf22a1101e754e66[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Obi Ojji <obi.ojji@lafosseacademy.com>
+Date:   Wed Feb 25 10:39:39 2026 +0000
+
+    Add 6th line
+
+[33mcommit 4e2b3335728a9ec5600defa4f038a569f9306aa6[m
+Author: Obi Ojji <obi.ojji@lafosseacademy.com>
+Date:   Wed Feb 25 10:37:04 2026 +0000
+
+    Add 5th line
+
+[33mcommit ff9c9e90fad86fd1e5f155fa48217a9079ffe402[m
+Author: Obi Ojji <obi.ojji@lafosseacademy.com>
+Date:   Wed Feb 25 10:35:06 2026 +0000
+
+    Add 4th line
+
+[33mcommit 2a64b226f17ceac91ab6af2f1265e23ba399d1d1[m
+Author: Obi Ojji <obi.ojji@lafosseacademy.com>
+Date:   Wed Feb 25 10:34:02 2026 +0000
+
+    Add 3rd line
+
+[33mcommit d7b13868f6793d80816c868b5e70500424b444b4[m
+Merge: 479fe25 08d42a5
+Author: Obi Ojji <obi.ojji@lafosseacademy.com>
+Date:   Wed Feb 25 10:12:35 2026 +0000
+
+    Pull horror version into to master
+
+[33mcommit 479fe2527bbc7a58d9c11922ffa5363a923a04ff[m
+Author: Obi Ojji <obi.ojji@lafosseacademy.com>
+Date:   Wed Feb 25 10:02:58 2026 +0000
+
+    Update dark comedy late show
+
+[33mcommit 08d42a58e705ddcb399e5304fa214104519f83df[m[33m ([m[1;32mhorror-version[m[33m)[m
+Author: Obi Ojji <obi.ojji@lafosseacademy.com>
+Date:   Wed Feb 25 09:50:52 2026 +0000
+
+    Add horror version
+
+[33mcommit 717d0945ee6f70630b228452832d1b2fedc1c657[m
+Author: Obi Ojji <obi.ojji@lafosseacademy.com>
+Date:   Wed Feb 25 09:37:29 2026 +0000
+
+    Create dark-comedy-late-show
